@@ -1,9 +1,8 @@
-.locationForm {
-  width: 20vw;
-  height: 10vh;
+body {
+  background-color: rgb(59, 59, 59);
+  color: aliceblue;
 
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: space-around;
 }
